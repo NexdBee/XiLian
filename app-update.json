@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/NexdBee/XiLian/releases/download/v1.5/xilian-1.5.apk",
-  "notes": "我的页可开每天刷题提醒。点通知进入每日一练。"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/NexdBee/XiLian/releases/download/v1.6/xilian-1.6.apk",
+  "notes": "章节/随机/错题练习会记住进度，下次从停下的题继续。已答过的题会带上上次选项和解析。"
 }
 
