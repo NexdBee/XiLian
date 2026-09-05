@@ -1,0 +1,27 @@
+{
+  "name": "析练 · 系统分析师题库",
+  "examTarget": "2026下半年",
+  "version": "2026h2.4405de2c66c3ce20",
+  "updatedAt": "2026-09-05T13:59:17.403Z",
+  "questionCount": 325,
+  "sha256": "4405de2c66c3ce20",
+  "chapters": {
+    "computer": 35,
+    "math": 28,
+    "data": 20,
+    "pm": 20,
+    "law": 16,
+    "emerging": 20,
+    "english": 12,
+    "strategy": 12,
+    "ops": 22,
+    "opensource": 18,
+    "network": 20,
+    "security": 16,
+    "planning": 22,
+    "analysis": 24,
+    "design": 22,
+    "swe": 18
+  },
+  "packUrl": "https://nexdbee.github.io/XiLian/bank-pack.json"
+}
