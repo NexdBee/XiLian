@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/NexdBee/XiLian/releases/download/v1.6/xilian-1.6.apk",
-  "notes": "章节/随机/错题练习会记住进度，下次从停下的题继续。已答过的题会带上上次选项和解析。"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/NexdBee/XiLian/releases/download/v1.7/xilian-1.7.apk",
+  "notes": "请只确认系统刚弹出的安装界面，不要点「下载」里旧的 xilian-1.2 之类安装包。若已变成 1.2，删掉那些旧包后用本页 1.7 覆盖安装即可，不必卸载。"
 }
 
