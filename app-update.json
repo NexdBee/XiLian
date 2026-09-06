@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://nexdbee.github.io/XiLian/xilian-1.7.apk",
-  "notes": "请只确认系统刚弹出的安装界面。若 GitHub 打不开，用这个页面下载 1.7。不要点手机下载里的旧包。"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://nexdbee.github.io/XiLian/xilian-1.8.apk",
+  "notes": "修复点底部「我的」等页签打不开。请直接覆盖安装，不要先卸载。"
 }
