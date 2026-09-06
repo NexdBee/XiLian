@@ -1,7 +1,6 @@
 {
   "versionCode": 8,
   "versionName": "1.7",
-  "apkUrl": "https://github.com/NexdBee/XiLian/releases/download/v1.7/xilian-1.7.apk",
-  "notes": "请只确认系统刚弹出的安装界面，不要点「下载」里旧的 xilian-1.2 之类安装包。若已变成 1.2，删掉那些旧包后用本页 1.7 覆盖安装即可，不必卸载。"
+  "apkUrl": "https://nexdbee.github.io/XiLian/xilian-1.7.apk",
+  "notes": "请只确认系统刚弹出的安装界面。若 GitHub 打不开，用这个页面下载 1.7。不要点手机下载里的旧包。"
 }
-
