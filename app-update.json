@@ -1,7 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://nexdbee.github.io/XiLian/xilian-1.13.apk",
-  "notes": "覆盖安装后作答记录仍在本机。本版：首页薄弱点可进缺口练习；模拟考交卷后按章看分数条，答题卡能辨标记/未答；错题可按章回炉；题库更新失败会说明网络或清单问题；下午案例/论文在线包按题号合并；开源与信创加到 19 题。也可在「我的 → 更新题库」拉取新题，不必重装。"
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://nexdbee.github.io/XiLian/xilian-1.14.apk",
+  "notes": "下午6套案例对照、论文120分钟草稿、开源第20题。覆盖安装记录仍在本机。也可只更新题库。"
 }
-
