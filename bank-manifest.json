@@ -1,10 +1,10 @@
 {
   "name": "析练 · 系统分析师题库",
   "examTarget": "2026下半年",
-  "version": "2026h2.5810db6db904749c",
-  "updatedAt": "2026-09-17T18:21:42.681Z",
-  "questionCount": 326,
-  "sha256": "5810db6db904749c",
+  "version": "2026h2.553b5b0c9706ff23",
+  "updatedAt": "2026-09-19T12:19:30.805Z",
+  "questionCount": 327,
+  "sha256": "553b5b0c9706ff23",
   "chapters": {
     "computer": 35,
     "math": 28,
@@ -15,7 +15,7 @@
     "english": 12,
     "strategy": 12,
     "ops": 22,
-    "opensource": 19,
+    "opensource": 20,
     "network": 20,
     "security": 16,
     "planning": 22,
